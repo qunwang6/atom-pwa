@@ -34,9 +34,7 @@ function Hub() {
       <div className={styles.header}>
         <div className={styles.content}>
           <div className={styles.topbar}>
-            <div className={styles.logo}>
-              <Atom aria-label="Atom" weight={24} size={32} color="primary" />
-            </div>
+
 
             <UpdateButton />
 
